@@ -35,7 +35,6 @@ jobs:
     steps:
       - name: 检出代码库
         uses: actions/checkout@v2
-        uses: actions/setup-node@v2
         with:
           node-version: '16'  # 这里需要更改
         # uses: actions/checkout@v4
