@@ -34,7 +34,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 检出代码库
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        # uses: actions/checkout@v2
 
       - name: 读取镜像列表文件
         id: read_images
