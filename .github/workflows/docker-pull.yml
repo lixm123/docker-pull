@@ -35,9 +35,10 @@ jobs:
     steps:
       - name: 检出代码库
         uses: actions/checkout@v2
+      - uses: actions/setup-node@v4
         with:
-          node-version: '16'  # 这里需要更改
-        # uses: actions/checkout@v4
+          node-version: '16'
+
 
       - name: 读取镜像列表文件
         id: read_images
