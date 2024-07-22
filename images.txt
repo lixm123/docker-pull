@@ -1,2 +1,3 @@
-apacherocketmq/rocketmq-console:2.0.0
-apache/rocketmq:5.1.0
+#apacherocketmq/rocketmq-console:2.0.0
+#apache/rocketmq:5.1.0
+apacherocketmq/rocketmq-dashboard:1.0.1
