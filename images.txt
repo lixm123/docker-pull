@@ -1,3 +1,4 @@
-docker.io/bitnami/os-shell:11
-docker.io/bitnami/redis-cluster:6.0.8
-docker.io/bitnami/redis-exporter:1.39.0
+aeert/otter-manager:4.2.18
+aeert/otter-node:4.2.18
+zookeeper:3.6.3
+mysql:5.7.19
