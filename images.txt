@@ -1,2 +1,1 @@
-zookeeper:3.6.3
-mysql:5.7.19
+ubuntu:22.04
