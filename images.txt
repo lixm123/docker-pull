@@ -1,1 +1,1 @@
-ubuntu:22.04
+docker.elastic.co/beats/filebeat:8.14.0
