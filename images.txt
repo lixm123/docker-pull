@@ -1,1 +1,1 @@
-minio/console:v0.22.5
+nginx:latest
