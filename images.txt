@@ -1,1 +1,1 @@
-nginx:latest
+quay.io/minio/console:v0.22.5
