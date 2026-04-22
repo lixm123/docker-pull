@@ -1,1 +1,1 @@
-docker.io/milvusdb/milvus:v2.5.10
+cozedev/coze-studio-web:latest
