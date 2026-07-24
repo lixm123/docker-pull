@@ -1,1 +1,1 @@
-eclipse-temurin:8u372
+amazoncorretto:8u372-alpine-jre
