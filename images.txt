@@ -1,1 +1,2 @@
-amazoncorretto:8u372-alpine-jre
+amazoncorretto:8u372-alpine
+amazoncorretto:8u372
