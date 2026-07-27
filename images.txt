@@ -1,2 +1,1 @@
-amazoncorretto:8u372-alpine
-amazoncorretto:8u372
+calciumion/new-api:latest
