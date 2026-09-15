@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+maven:3.6.3
